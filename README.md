@@ -2,7 +2,7 @@ Team-Piazza
 ===========
 
 forked from https://code.google.com/p/team-piazza/
-and updarted to support Team City 8
+and updated to support Team City 8
 
     To install plugin:
     1. Shutdown TeamCity server
